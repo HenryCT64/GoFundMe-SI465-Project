@@ -1,0 +1,84 @@
+{
+  "category_stats": {
+    "Art": {
+      "success_rate": 0.736,
+      "count": 15748
+    },
+    "Comics": {
+      "success_rate": 0.823,
+      "count": 6645
+    },
+    "Crafts": {
+      "success_rate": 0.4,
+      "count": 7736
+    },
+    "Dance": {
+      "success_rate": 0.752,
+      "count": 3161
+    },
+    "Design": {
+      "success_rate": 0.677,
+      "count": 8398
+    },
+    "Fashion": {
+      "success_rate": 0.535,
+      "count": 10180
+    },
+    "Film & Video": {
+      "success_rate": 0.672,
+      "count": 25623
+    },
+    "Food": {
+      "success_rate": 0.395,
+      "count": 14693
+    },
+    "Games": {
+      "success_rate": 0.745,
+      "count": 14429
+    },
+    "Journalism": {
+      "success_rate": 0.344,
+      "count": 4369
+    },
+    "Music": {
+      "success_rate": 0.72,
+      "count": 24983
+    },
+    "Photography": {
+      "success_rate": 0.535,
+      "count": 6553
+    },
+    "Publishing": {
+      "success_rate": 0.654,
+      "count": 20293
+    },
+    "Technology": {
+      "success_rate": 0.555,
+      "count": 16122
+    },
+    "Theater": {
+      "success_rate": 0.643,
+      "count": 6101
+    }
+  },
+  "median_goal_success_usd": 3000.0,
+  "median_goal_fail_usd": 7000.0,
+  "overall_success_rate": 0.6298626198428396,
+  "categories": [
+    "Art",
+    "Comics",
+    "Crafts",
+    "Dance",
+    "Design",
+    "Fashion",
+    "Film & Video",
+    "Food",
+    "Games",
+    "Journalism",
+    "Music",
+    "Photography",
+    "Publishing",
+    "Technology",
+    "Theater"
+  ]
+}
