@@ -1,4 +1,4 @@
-````md
+
 # Kickstarter Campaign Success Predictor
 
 A machine learning final project that predicts whether a Kickstarter campaign is likely to succeed using only **pre-launch information**.
@@ -32,7 +32,7 @@ This is a **classification** problem based on historical campaign patterns. The 
   meta.json               <- saved metadata for app charts/benchmarks
   requirements.txt
   README.md
-````
+
 
 ---
 
