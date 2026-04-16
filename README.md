@@ -23,7 +23,7 @@ This is a **classification** problem based on historical campaign patterns. The 
 
 ## Final Project Structure
 
-```text
+
 /ML-Final-proj
   /Kickstarter_data/      <- 85 CSV snapshot files
   train_model.py          <- full training pipeline
